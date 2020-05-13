@@ -1,0 +1,71 @@
+.header-derecha, .header-izquierda{
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+.header-derecha, .header-derecha {
+    float: right;
+
+}
+
+.header-derecha a, .header-izquierda a {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+.main {
+ text-align: center;
+ font-family: Arial;
+ font-size: 13px;
+}
+
+.leoogle {
+    width: 500px;
+    margin: 6% auto auto auto;
+    padding: 30px 30px 30px 30px;
+    display: block;
+    
+    
+}
+
+.searchbar {
+    text-align: left;
+    padding: 10px 400px 10px 20px;
+    border-color: lightgray;
+    border-width: 1px;
+    border-radius: 15px;
+    margin: 10px 10px 20px 10px;
+}
+
+p {
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+button {
+    padding: 10px 20px 10px 20px;
+    margin: 10px 10px 5px 5px;
+    background-color: whitesmoke;
+    border: none;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    
+
+}
+
+.españa a, .footer p {
+    margin: 10px 10px 10px 10px;
+    color: gray;
+    font-family: Arial;
+    font-size: 13px;
+    
+
+}
